@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/dreamerblue/react-autolatex#readme",
   "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.0 || ^16.0.0"
+    "react": "^0.14.0 || ^15.0.0 || ^16.0.0 || ^18.0.0"
   },
   "dependencies": {
     "katex": "^0.10.0",
